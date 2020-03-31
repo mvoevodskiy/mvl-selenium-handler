@@ -1,14 +1,15 @@
 {
-  "name": "mvl-blank-project",
-  "version": "0.0.1",
+  "name": "mvl-selenium-handler",
+  "version": "1.0.1",
   "description": "",
-  "main": "src/mvlblankproject.js",
+  "main": "src/mvlseleniumhandler.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "mvloader": "^1.0.3",
-    "mvtools": "^1.0.7"
+    "mvloader": "^1.0.5",
+    "mvtools": "^1.0.10",
+    "selenium-webdriver": "4.0.0-alpha.7"
   },
   "devDependencies": {},
   "author": "mvoevodskiy",
